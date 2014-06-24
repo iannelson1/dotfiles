@@ -1,14 +1,21 @@
 {
-    "color_scheme": "Packages/User/Monokai Bright (SL).tmTheme",
-    "draw_white_space": "all",
+    // Theme settings.
+    "theme": "Afterglow.sublime-theme",
+    "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
     "font_face": "Droid Sans Mono",
-    "font_size": 10,
-    "ignored_packages": [
-        "Vintage"
-    ],
+
+    // Afterglow theme settings.
+    "sidebar_row_padding_large": true,
+    "sidebar_size_14": true,
+    "status_bar_brighter": true,
+
+    // Whitespace and formatting.
     "tab_size": 4,
-    "theme": "Soda Dark.sublime-theme",
-    "trailing_spaces_include_current_line": false,
+    "font_size": 14,
+    "draw_white_space": "all",
     "translate_tabs_to_spaces": true,
-    "trim_trailing_white_space_on_save": true
+    "trim_trailing_white_space_on_save": true,
+
+    // Ignored packages.
+    "ignored_packages": ["Vintage"]
 }
