@@ -1,4 +1,3 @@
-terminal-configuration
+dotfiles
 ======================
-
-Terminal configurations for Linux and OS X, also adds Git completion and status.
+Settings and configurations for my ArchLinux system.
