@@ -4,7 +4,6 @@ cp .bashrc ~/
 cp .git-completion.bash ~/
 cp .git-prompt.sh ~/
 cp .gitconfig ~/
-cp .vimrc ~/
 
-mkdir -p ~/.vim/colors
-cp ir_black.vim ~/.vim/colors
+## Install vgod's VIM setup.
+curl -o - https://raw.github.com/vgod/vimrc/master/auto-install.sh | sh
