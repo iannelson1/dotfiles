@@ -1,21 +1,18 @@
 {
-    // Theme settings.
-    "theme": "Afterglow.sublime-theme",
-    "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
-    "font_face": "Droid Sans Mono",
-
-    // Afterglow theme settings.
-    "sidebar_row_padding_large": true,
-    "sidebar_size_14": true,
-    "status_bar_brighter": true,
-
-    // Whitespace and formatting.
-    "tab_size": 4,
-    "font_size": 14,
+    "bold_folder_labels": true,
+    "color_scheme": "Packages/Color Schemes by carlcalderon/Stereokai/Stereokai.tmTheme",
     "draw_white_space": "all",
+    "font_face": "Source Code Pro",
+    "font_size": 10,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages": [
+        "Vintage"
+    ],
+    "numix_folder_icons": true,
+    "tab_size": 4,
+    "theme": "Numix Dark.sublime-theme",
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
-
-    // Ignored packages.
-    "ignored_packages": ["Vintage"]
+    "word_wrap": true
 }
